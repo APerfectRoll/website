@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: #333333;
+    color: #222222;
+    margin: 0;
+    overflow: hidden;
+}
+
+.bg{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://images.pixexid.com/a-dirt-road-in-a-forest-7e0hs7yk.jpeg?h=700&q=70');
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    filter:blur(30px);
+    position: absolute;
+    z-index: -1;
+}
