@@ -3,7 +3,7 @@
 
 body{
     font-family: 'Roboto Slab', serif;
-    background-color: rgb(161, 100, 223);
+    background-color: black;
     display: flex;
     height: 100vh;
     align-items: center;
@@ -22,4 +22,8 @@ body{
     margin: 1rem;
     padding: 1.5rem 3rem;
     fontsize: 1.2rem;
+}
+
+.btn:hover{
+    opacity: 0.9;
 }
