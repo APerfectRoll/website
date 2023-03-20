@@ -31,3 +31,17 @@ h3{
     margin: 50px auto;
     max-width: 600px;
 }
+
+.jokeBtn{
+    background-color: #9f68e0;
+    text-color: white;
+    border: 0;
+    border-radius: 10px;
+    padding: 14px 40px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.jokeBtn:active{
+    transform: scale(0.98);
+}
