@@ -3,6 +3,6 @@ const jokeBtn = document.getElementById('jokeBtn')
 
 jokeBtn.addEventListener('click', generateJoke)
 
-function generateJoke(){
+async function generateJoke(){
     
 }
