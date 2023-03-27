@@ -21,7 +21,7 @@ body{
 .square{
     height: 16px;
     width: 16px;
-    background-color: #1D1D1D;
+    background-color: #1d1d1d;
     margin: 2px;
     transition: 2s ease;
 }
